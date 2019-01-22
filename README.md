@@ -5,7 +5,7 @@
 
 ### Is loss
 
-![](images/MEMEZ)
+![](images/MEMEZ !)
 
 ##blog post
 
