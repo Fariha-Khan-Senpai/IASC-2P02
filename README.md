@@ -5,7 +5,7 @@
 
 ### Is loss
 
-![](images/MEMEZ !.png)
+![](IASC-2P02/images/MEMEZ !.png)
 
 ##blog post
 
