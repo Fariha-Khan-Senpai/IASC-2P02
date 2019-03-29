@@ -1,12 +1,7 @@
 # IASC-2P02
-## Please No
 
-|   ||   ||    |_
+# Presentation:
 
-### Is loss
-
-![](images/MEMEZ !.png)
-
-##blog post
+[Click Here For Presentation](reveal/index.html)
 
 Write blog like so.... [countinue reading] (blog)
